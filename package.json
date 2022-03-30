@@ -1,6 +1,6 @@
 {
-  "name": "nyc",
-  "version": "15.1.0",
+  "name": "@wekanteam/nyc",
+  "version": "15.1.1",
   "description": "the Istanbul command line interface",
   "main": "index.js",
   "scripts": {
@@ -36,6 +36,10 @@
     "testing"
   ],
   "contributors": [
+    {
+      "name": "Lauri Ojansivu",
+      "website": "https://github.com/xet7"
+    },
     {
       "name": "Isaac Schlueter",
       "website": "https://github.com/isaacs"
@@ -100,9 +104,9 @@
     "node": ">=8.9"
   },
   "homepage": "https://istanbul.js.org/",
-  "bugs": "https://github.com/istanbuljs/nyc/issues",
+  "bugs": "https://github.com/wekan/nyc/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:istanbuljs/nyc.git"
+    "url": "git@github.com:wekan/nyc.git"
   }
 }
