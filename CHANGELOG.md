@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [15.1.1](https://github.com/wekan/nyc/compare/v15.1.0...v15.1.1) (2022-03-30)
+
+- Updated dependencies.
+  [Part 1](https://github.com/wekan/nyc/commit/65632e9555bf5d89168e075cbd411c441134ce30),
+  [Part 2](https://github.com/wekan/nyc/commit/d15c7de84bd022fab97d57f8fc071e560639be08).
+  Thanks to xet7.
+
 ## [15.1.0](https://github.com/istanbuljs/nyc/compare/v15.0.1...v15.1.0) (2020-06-01)
 
 
